@@ -10,6 +10,8 @@ I'm an electrical engineering student at Universidad nacional de colombia, inter
 
 -Blender
 
+-linux
+
 -Phython 
 
 -Matlab-simulink
