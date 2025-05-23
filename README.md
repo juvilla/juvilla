@@ -1,5 +1,5 @@
 ## 🤖 About Me
-I'm an electrical engineering student at Universidad nacional de colombia, interested in robotics and AI
+I'm an electrical engineering student at Universidad nacional de colombia, interested in learning about robotics and AI
 
 
 ## 🔗 Links
